@@ -484,6 +484,7 @@ body{
     cursor: pointer;
     border: none;
   	width: 131px;
+  	border: 1px solid transparent;
 	}
 
 	input[type="submit"]:hover {
@@ -1241,6 +1242,7 @@ body{
     cursor: pointer;
     border: none;
   	width: 131px;
+  	border: 1px solid transparent;
 	}
 
 	input[type="submit"]:hover {
