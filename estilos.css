@@ -458,7 +458,7 @@ body{
     margin: 20px auto;
     background-color: #fff;
     padding: 20px;
-    border-radius: 8px;
+    
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.s1);
   }
 
@@ -719,6 +719,7 @@ body{
   	position: fixed;
   	top: 0;
   	left: 0;
+  	right: 0;
   	background-color: #ecefee;
 	}
 
@@ -1216,7 +1217,7 @@ body{
     margin: 20px auto;
     background-color: #fff;
     padding: 20px;
-    border-radius: 8px;
+    
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.s1);
   }
 
@@ -1260,7 +1261,6 @@ body{
     margin-top: 31px;
     width: 100%;
   }
-
 
 }
 
